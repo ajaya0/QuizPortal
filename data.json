@@ -1,0 +1,77 @@
+{
+    "ques":[
+        "Q1.What is the extension of python",
+        "Q2.Which type of Programming does Python support?",
+        "Q3.Who developed Python Programming Language?",
+        "Q4.Is Python case sensitive when dealing with identifiers?",
+        "Q5.Is Python code compiled or interpreted?",
+        "Q6.What is the output of the following code?--print(3 + 4 * 5)",
+        "Q7.What does the 'import' statement do in Python?",
+        "Q8.What is the purpose of 'if' statements in Python?",
+        "Q9.What is the result of '5 % 2' in Python?",
+        "Q10.What is the correct way to comment a single line in Python?"
+        
+    ],
+    "ans":[
+        2,4,3,2,1,3,2,3,3,1
+    ],
+    "choices":[
+        [
+            ".pyt",".py","pyhr",".p"
+        ],
+        [
+            "Is Python case sensitive when dealing with identifiers?",
+            "Is Python case sensitive when dealing with identifiers?",
+            "Is Python case sensitive when dealing with identifiers?",
+            "all of the mentioned"
+        ],
+        [
+            "Wick van Rossum",
+            "Rasmus Lerdorf",
+            "Guido van Rossum",
+            "Niene Stom"
+        ],
+        [
+            "no",
+            "yes",
+            "machine dependent",
+            "none of the mentioned"
+        ],
+        [
+            "Python code is both compiled and interpreted",
+            "Python code is neither compiled nor interpreted",
+            "Python code is only compiled",
+            "Python code is only interpreted"
+        ],
+        [
+            "7", 
+            "35", 
+            "23", 
+            "20"
+        ],
+        [
+            "Exports a function from a module",
+            "Imports a module into the current script",
+            "Defines a new module",
+            "Deletes a module"
+        ],
+        [
+            "To declare a variable",
+            "To define a function",
+            "To control the flow of a program based on conditions",
+            "To print output"
+        ],
+        [
+            "0", 
+            "2", 
+            "1", 
+            "5"
+        ],
+        [
+            "# This is a comment",
+            "// This is a comment",
+            "/* This is a comment */",
+            "// This is a comment"
+        ]
+    ]
+}
